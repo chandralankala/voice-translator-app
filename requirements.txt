@@ -1,0 +1,7 @@
+streamlit
+google-cloud-speech
+google-cloud-translate
+google-cloud-language
+google-cloud-texttospeech
+langdetect
+openai
